@@ -47,4 +47,6 @@ Baixe ou clone o repositório.
 
 Abra o arquivo .c3p no Construct 3.
 
+O arquivo gerará um link:
+https://preview.construct.net/local.html
 Clique em "Run Layout" para jogar diretamente no navegador.
